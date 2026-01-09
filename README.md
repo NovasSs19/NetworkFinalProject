@@ -86,4 +86,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 Dorukhan Ozgur - [@dorukhanozgur](https://x.com/dorukhan1904)
 
-Project Link: [https://github.com/yourusername/currency-exchange-mobile](https://github.com/NovasSs19/currency-exchange-mobile)
+Project Link: [https://github.com/NovasSs19/currency-exchange-mobile](https://github.com/NovasSs19/currency-exchange-mobile)
